@@ -20,7 +20,7 @@
 - CSS  
 - Git  
 - C/C++  
-## Education  
+## Education :mortar_board:  
 **University** : Belarusian State University of Information and Radioelectronics  
 **Speciality** : Information Systems and Technologies (in economics)  
 **Graduation year** : 2023  
