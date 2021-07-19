@@ -6,7 +6,7 @@
 ***Telephone*** : +375 33 631 90 49  
 ***E-mail*** : lla.dea@mail.ru  
 ***Telegram*** : @alinagrdk  
-***GitHub*** : [Alina Grudko] (https://github.com/AlinaGrudko)  
+***GitHub*** : [Alina Grudko](https://github.com/AlinaGrudko)  
 ***Skype*** : live:.cid.3172eda769f19b6e  
 ## Personal qualities  
 - Perseverance
