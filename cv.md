@@ -1,20 +1,20 @@
 # Alina Grudko
-### Summary  
-**Date of birth** : 09/07/2002 (19 y.o.)  
-**Location** : Minsk, Belarus  
+### Summary :memo:  
+**Date of birth** : 09/07/2002 (19 y.o.)
+:round_pushpin: **Location**  : Minsk, Belarus  
 ## Contacts  
-***Telephone*** :calling: : +375 33 631 90 49  
-***E-mail*** :email: : lla.dea@mail.ru  
-***Telegram*** :envelope: : @alinagrdk  
-***GitHub*** :octocat: : [Alina Grudko](https://github.com/AlinaGrudko)  
-***Skype*** : live:.cid.3172eda769f19b6e  
+:calling: ***Telephone*** : +375 33 631 90 49  
+:mailbox: ***E-mail*** : lla.dea@mail.ru  
+:envelope: ***Telegram*** : @alinagrdk  
+:octocat: ***GitHub*** : [Alina Grudko](https://github.com/AlinaGrudko)  
+:sound: ***Skype*** : live:.cid.3172eda769f19b6e  
 ## Personal qualities  
 - Perseverance
 - Attentiveness  
 - Purposefulness 
 - Pedantry
 - Sociability
-## Skills  
+## Skills :eyeglasses:  
 - JS  
 - HTML  
 - CSS  
@@ -26,7 +26,7 @@
 **Graduation year** :confetti_ball: : 2023  
 ## Experience  
 - CCNA Introduction to Networks
-## Code example  
+## Code example  :computer:  
 ```
 function killer(suspectInfo, dead) {
   let killerName = ''
@@ -44,6 +44,6 @@ function killer(suspectInfo, dead) {
   return killerName
 }
 ```  
-## English level  
+## English level :book:  
 A2-B1
 
